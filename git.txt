@@ -6,3 +6,5 @@ git add
 git commit -m ""
 git push
 git pull
+git remote add proc https://github.com/qq122232400/proc
+
