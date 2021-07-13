@@ -6,6 +6,10 @@ git add
 git commit -m ""
 git push
 git pull
+
+git remote -v
+git remote show origin
 git remote add proc https://github.com/qq122232400/proc
+git remote rename pb pc
 
 by20210423 16:16
